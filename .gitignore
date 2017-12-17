@@ -1,0 +1,8 @@
+config/dev.py
+.idea/
+*.pyc
+.DS_Store
+tmp.html
+tmp/
+profile.py.lprof
+xpath.py
